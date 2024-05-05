@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(208, 208, 208);
+}
+
+.container {
+    max-width: 800px;
+    margin: 20 auto;
+  }
+  
+  form input {
+    margin-bottom: 10px;
+    margin-left: 900px;
+    width: 200px;
+    border-radius: 5px;
+    height: 20px;
+    background-color: rgb(208, 208, 208);
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+    border: 1px solid black;
+  }
+  
+  th, td {
+    padding: 8px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    cursor: pointer;
+    width: 200px;
+    height: 40px;
+    margin-left: 904px;
+    border-radius: 5px;
+    background-color: rgb(87, 87, 241);
+    border: 0;
+    color: white;
+    font-weight: bold;
+  }
+button:hover{
+    background-color: blue;
+}
+
+  input{
+    display: block;
+  }
